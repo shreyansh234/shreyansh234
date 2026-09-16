@@ -1,31 +1,194 @@
-<h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
-<h3 align="center">A passionate DevOps & Cloud Computing</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh234&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh234" /> </p>
+# Hi 👋, I'm Shreyansh Singh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh234" alt="shreyansh234" /></a> </p>
+### ☁️ Cloud & DevOps Enthusiast | 💻 Computer Engineering Student | 🚀 Developer
 
-- 🔭 I’m currently working on [Blood Bridge](https://github.com/shreyansh234/bloodbridge-java.git)
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **shreyanshsingh868@gmail.com**
-
-- ⚡ Fun fact **Im An Engineering Student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreyansh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh singh" height="30" width="40" /></a>
-<a href="https://instagram.com/5hreyanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5hreyanshhh" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shreyansh234&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/shreyansh234?tab=followers">
+    <img src="https://img.shields.io/github/followers/shreyansh234?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/shreyansh234?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-2-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh234&show_icons=true&locale=en&layout=compact" alt="shreyansh234" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh234&show_icons=true&locale=en" alt="shreyansh234" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh234&" alt="shreyansh234" /></p>
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- ☁️ Interested in **Cloud Computing & DevOps**
+- 🌱 Currently learning **DevOps, AWS, Linux & Cloud Technologies**
+- 🔭 Currently working on **BloodBridge**
+- 🐳 Exploring **Docker, CI/CD and Cloud Deployment**
+- 💻 Building projects to improve my development and DevOps skills
+- 📚 Always learning and experimenting with new technologies
+- 💬 Ask me about **Cloud, DevOps, AWS, Linux, Java & Git**
+- 📫 Reach me at **shreyanshsingh868@gmail.com**
+
+---
+
+# 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/shreyansh234/bloodbridge-java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh234&repo=bloodbridge-java&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+## 🩸 BloodBridge
+
+**BloodBridge** is a web-based platform designed to connect blood donors with people who need blood.
+
+### ⚙️ Tech Stack
+
+`Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `JavaScript` • `Render`
+
+<p>
+  <a href="https://bloodbridge-java.onrender.com">
+    <img src="https://img.shields.io/badge/Live_Website-Visit_BloodBridge-e63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/shreyansh234/bloodbridge-java">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🛠️ Languages & Technologies
+
+## 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+</p>
+
+## 🗄️ Database & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,spring" />
+</p>
+
+## 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shreyansh234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh234&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh234&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyansh234&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh234&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+| 🚀 Repositories | ⭐ Stars | 🔥 Contributions | 💻 Main Focus |
+|:---:|:---:|:---:|:---:|
+| Growing | Growing | Building & Learning | Cloud & DevOps |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- ☁️ Improve my **AWS & Cloud Computing** knowledge
+- 🐳 Learn **Docker** and containerization
+- ⚙️ Build practical **CI/CD pipelines**
+- 🐧 Improve my **Linux** skills
+- 🚀 Build and deploy more real-world projects
+- 🌐 Learn more about **Cloud Infrastructure & DevOps**
+- 🤝 Start contributing to **Open Source**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyansh01122006">
+  <img src="https://img.shields.io/badge/LinkedIn-Shreyansh_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyanshsingh868@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/5hreyanshhh">
+  <img src="https://img.shields.io/badge/Instagram-5hreyanshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Build. Break. Learn. Improve. Repeat."
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+</div>
