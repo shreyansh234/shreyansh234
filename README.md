@@ -1,21 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Shreyansh Singh
+# 👋 Hi, I'm Shreyansh Singh
 
 ### ☁️ Cloud & DevOps Enthusiast | 💻 Computer Engineering Student | 🚀 Developer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shreyansh234&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=shreyansh234&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<p>
-  <a href="https://github.com/shreyansh234?tab=followers">
-    <img src="https://img.shields.io/github/followers/shreyansh234?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/shreyansh234?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-2-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+<a href="https://github.com/shreyansh234?tab=followers">
+<img src="https://img.shields.io/github/followers/shreyansh234?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</a>
 
 </div>
 
@@ -27,7 +20,7 @@
 - ☁️ Interested in **Cloud Computing & DevOps**
 - 🌱 Currently learning **DevOps, AWS, Linux & Cloud Technologies**
 - 🔭 Currently working on **BloodBridge**
-- 🐳 Exploring **Docker, CI/CD and Cloud Deployment**
+- 🐳 Exploring **Docker, CI/CD & Cloud Deployment**
 - 💻 Building projects to improve my development and DevOps skills
 - 📚 Always learning and experimenting with new technologies
 - 💬 Ask me about **Cloud, DevOps, AWS, Linux, Java & Git**
@@ -40,7 +33,7 @@
 <div align="center">
 
 <a href="https://github.com/shreyansh234/bloodbridge-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh234&repo=bloodbridge-java&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh234&repo=bloodbridge-java&theme=tokyonight" alt="BloodBridge"/>
 </a>
 
 </div>
@@ -53,42 +46,44 @@
 
 `Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `JavaScript` • `Render`
 
-<p>
-  <a href="https://bloodbridge-java.onrender.com">
-    <img src="https://img.shields.io/badge/Live_Website-Visit_BloodBridge-e63946?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<p align="center">
 
-  <a href="https://github.com/shreyansh234/bloodbridge-java">
-    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://bloodbridge-java.onrender.com">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20BloodBridge-e63946?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyansh234/bloodbridge-java">
+<img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 🛠️ Languages & Technologies
 
-## 💻 Programming
+### 💻 Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js" alt="Programming Languages"/>
 </p>
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" alt="Cloud and DevOps"/>
 </p>
 
-## 🗄️ Database & Backend
+### 🗄️ Database & Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,spring" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,spring" alt="Database and Backend"/>
 </p>
 
-## 🔧 Tools
+### 🔧 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" alt="Development Tools"/>
 </p>
 
 ---
@@ -97,9 +92,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreyansh234&show_icons=true&theme=tokyonight" alt="Shreyansh GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh234&layout=compact&theme=tokyonight" alt="Shreyansh Top Languages"/>
 
 </div>
 
@@ -109,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shreyansh234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shreyansh234&theme=tokyonight" alt="Shreyansh GitHub Streak"/>
 
 </div>
 
@@ -119,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh234&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh234&theme=tokyo-night" alt="Shreyansh GitHub Activity Graph"/>
 
 </div>
 
@@ -129,25 +126,25 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh234&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh234&theme=tokyonight" alt="GitHub Profile Summary"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyansh234&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyansh234&theme=tokyonight" alt="GitHub Stats"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh234&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyansh234&theme=tokyonight&utcOffset=5.5" alt="GitHub Productive Time"/>
 
 </div>
 
 ---
 
-# 📌 GitHub Overview
+# 📌 Developer Overview
 
 <div align="center">
 
-| 🚀 Repositories | ⭐ Stars | 🔥 Contributions | 💻 Main Focus |
+| 🚀 Projects | ⭐ Contributions | 💻 Main Focus | 📚 Status |
 |:---:|:---:|:---:|:---:|
-| Growing | Growing | Building & Learning | Cloud & DevOps |
+| Building | Growing | Cloud & DevOps | Learning |
 
 </div>
 
@@ -156,11 +153,11 @@
 # 🎯 Current Goals
 
 - ☁️ Improve my **AWS & Cloud Computing** knowledge
-- 🐳 Learn **Docker** and containerization
-- ⚙️ Build practical **CI/CD pipelines**
+- 🐳 Learn **Docker & Containerization**
+- ⚙️ Build practical **CI/CD Pipelines**
 - 🐧 Improve my **Linux** skills
 - 🚀 Build and deploy more real-world projects
-- 🌐 Learn more about **Cloud Infrastructure & DevOps**
+- 🌐 Learn **Cloud Infrastructure & DevOps**
 - 🤝 Start contributing to **Open Source**
 
 ---
@@ -170,15 +167,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shreyansh01122006">
-  <img src="https://img.shields.io/badge/LinkedIn-Shreyansh_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shreyanshsingh868@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/5hreyanshhh">
-  <img src="https://img.shields.io/badge/Instagram-5hreyanshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-5hreyanshhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -187,8 +184,8 @@
 
 <div align="center">
 
-### 💻 "Build. Break. Learn. Improve. Repeat."
+### 💻 Build. Break. Learn. Improve. Repeat.
 
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ **Thanks for visiting my GitHub Profile!**
 
 </div>
